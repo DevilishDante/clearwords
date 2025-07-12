@@ -19,7 +19,7 @@ Elle applique automatiquement un style de lecture clair, fluide et apaisant sur 
 
 ## 🖼️ Aperçu
 
-<img src="./assets/icons/ClearWords_128x128.png" width="96" alt="Logo ClearWords">
+<img width="658" height="215" alt="image" src="https://github.com/user-attachments/assets/1d9c6fa3-be05-4904-ac14-1348766e7fe5" />
 
 ---
 
